@@ -1,5 +1,3 @@
-Thought for 1sPackage.json verificadoLayout verificadoBaseado na análise do código, aqui estão as tecnologias utilizadas na landing page TechMel:
-
 ## **Linguagens e Frameworks Principais:**
 
 - **TypeScript** - Linguagem principal para tipagem estática
