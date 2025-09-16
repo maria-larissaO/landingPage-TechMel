@@ -75,21 +75,27 @@ export function Footer() {
             <div className="space-y-3">
               <div className="flex items-center space-x-2 text-sm">
                 <Mail className="w-4 h-4" />
-                <a href="mailto:techmelmt@gmail.com" className="text-muted-foreground hover:text-foreground">
+                <a href="mailto:techmelmt@gmail.com"
+                  className="text-muted-foreground hover:text-foreground"
+                  target="_blank"
+                >
                   techmelmt@gmail.com
                 </a>
               </div>
               <div className="flex items-center space-x-2 text-sm">
                 <Instagram className="w-4 h-4" />
-                <a href="https://instagram.com/tech_mel_" className="text-muted-foreground hover:text-foreground">
+                <a href="https://www.instagram.com/tech_mel_?igsh=MnZrbnJlMjlhcnZt" className="text-muted-foreground hover:text-foreground"
+                  target="_blank"
+                >
                   @tech_mel_
                 </a>
               </div>
               <div className="flex items-center space-x-2 text-sm">
                 <Linkedin className="w-4 h-4" />
                 <a
-                  href="https://www.linkedin.com/in/tech-mel-20mt24"
+                  href="http://www.linkedin.com/in/techmelmt"
                   className="text-muted-foreground hover:text-foreground"
+                  target="_blank"
                 >
                   tech-mel-20mt24
                 </a>
