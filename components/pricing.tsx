@@ -7,7 +7,7 @@ const plans = [
     name: "Básico",
     price: "R$ 89",
     period: "/mês",
-    description: "Ideal para pequenos apicultores",
+    description: "Ideal para apicultor iniciante",
     features: [
       "1 kit de sensores(temperatura + umidade)",
       "Monitoramento básico",
